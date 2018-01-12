@@ -14,4 +14,4 @@ $ npm install
 $ npm start
 ```
 
-
+Todo list is dummy data generated from [Here](https://jsonplaceholder.typicode.com/todos)
