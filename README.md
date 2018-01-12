@@ -1,3 +1,5 @@
+# react-projectmanager
+
 This project goes with the [ReactJS Crash Course](https://www.youtube.com/watch?v=A71aqufiNtQ) YouTube video
 
 ## ReactJS Project Manager
@@ -10,4 +12,6 @@ $ npm install
 
 ```sh
 $ npm start
-```# react-projectmanager
+```
+
+
